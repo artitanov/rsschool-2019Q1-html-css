@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Artyom Titanov
+HTML CSS Basics: https://www.codecademy.com/users/art.titanov/achievements
